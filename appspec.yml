@@ -7,9 +7,9 @@ files:
 
 permissions:
   - object: /
-  pattern: "**"
-  owner: ubuntu
-  group: ubuntu
+    pattern: "**"
+    owner: ubuntu
+    group: ubuntu
 
 hooks:
   ApplicationStart:
