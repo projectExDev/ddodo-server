@@ -38,6 +38,7 @@ out/
 
 ### application.properties ###
 application.properties
+application-real-db.properties
 
 ### logs ###
 logs/
